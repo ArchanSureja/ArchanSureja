@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Archan Sureja 👋
 
-<!--
-**ArchanSureja/ArchanSureja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and building innovative solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning **[AI-ML, Web Development]**
+- 👨‍💻 I’m working on **[AI-ML,Web-Development]**
+- 💬 Ask me about **[Python , AI-ML, Web-Dev]**
+- 📫 How to reach me: **[archansurejadev@gmail.com]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- Programming Languages: **[Python, C/C++, JavaScript]**
+- Frameworks & Libraries: **[React, FastAPI, Express.js ]**
+- Tools & Platforms: **[Docker, AWS, MongoDB, MySQL]**
+
+Thanks for visiting my GitHub profile! 😊# README
