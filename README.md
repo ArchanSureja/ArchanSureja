@@ -13,4 +13,4 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 - Frameworks & Libraries: **[React, FastAPI, Express.js ]**
 - Tools & Platforms: **[Docker, AWS, MongoDB, MySQL]**
 
-Thanks for visiting my GitHub profile! 😊# README
+Thanks for visiting my GitHub profile! 😊
